@@ -1,6 +1,7 @@
 * {
     padding: 0;
     margin: 0;
+   
 }
 
 body {
@@ -10,8 +11,9 @@ body {
     flex-direction: center;
 align-items: center;
 padding:162px 308px 162px 308px;
-width: 1960.889px;
-height: 1679.168px;
+width: 1400.889px;
+height: 700.168px;
+
 }
 .form-wrapper {
     max-width: 1440px;
